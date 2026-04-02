@@ -1,8 +1,8 @@
 # Open Source Software Audit Project
 
 ## 👤 Student Details
-Name: Your Name  
-Roll Number: Your Roll Number  
+Name: Swayam kumar raikwar
+Roll Number: 24MIP10004 
 Course: Open Source Software  
 
 ## 💻 Chosen Software
