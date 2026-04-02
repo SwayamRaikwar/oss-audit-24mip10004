@@ -14,4 +14,4 @@ case $PACKAGE in
     mysql) echo "MySQL: database" ;;
     firefox) echo "Firefox: browser" ;;
     *) echo "Unknown" ;;
-  esac
+esac
