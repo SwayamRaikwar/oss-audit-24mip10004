@@ -9,7 +9,7 @@ DATE=$(date)
 DISTRO=$(grep PRETTY_NAME /etc/os-release | cut -d '"' -f2)
 
 echo "===== SYSTEM REPORT ====="
-echo "Name: $STUDENT_NAME"
+echo "Name: $TEACHER_NAME"
 echo "Software: $SOFTWARE_CHOICE"
 echo "Kernel: $KERNEL"
 echo "User: $USER_NAME"
